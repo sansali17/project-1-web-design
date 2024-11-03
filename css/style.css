@@ -1,0 +1,531 @@
+.center{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
+
+.img{
+    
+    width:45%;
+    height:85%;
+    float:right ;
+    padding-right:10% ;
+    padding-left:30px ;
+
+    
+}
+    
+.title.h1{
+    padding-left:120px ;
+}
+
+.title{
+    
+    font-size: large;
+    font-style:normal;
+    font-weight: 50px;
+    padding-left:130px ;
+    padding-right:80px ;
+    color: #a9a9a9;
+    padding-top:80px ;
+
+}
+
+
+.paragraph1{
+    font-size:18px;
+     
+     padding-left:120px;
+    
+    
+}
+
+.paragraph2{
+
+    font-size:18px;
+
+     padding-left:120px;
+    
+
+}
+.paragraph3{
+    font-size:18px;
+    padding-left:120px ;
+
+    
+}
+
+
+
+.colleft{
+    float: left;
+    padding-top:3% ;
+    padding-left:98px ;
+}
+.colright{
+
+    float:right;
+    padding-bottom:10% ;
+    padding-top:100px ;
+    padding-left:30px;
+    font-size:xx-large ;
+    font-weight: 350px;
+    background-position:fixed ;
+}
+.firstparagraph{
+    font-size: large;
+    background-position:fixed ;
+    padding-top:15px ;
+    
+}
+.secondparagraph{
+    font-size:large ;
+    padding-top:15px ;
+
+}
+.mini{
+  color:orange ;
+  font-size:13px ;
+}
+.orders{
+    font-size:11px ;
+    padding-left:3px ;
+    color: red;
+}
+.customer{
+
+    float: right;
+    padding-right:90px;
+}
+.heading{
+    float: left;
+    padding-left:150px ;
+}
+.money{
+    padding-top:1px ;
+    padding-left:25px ;
+    color: #464444;
+    border-color: black;
+    font-weight: lighter;
+}
+.fourth{
+padding-left:25px ;
+font-size:19px ;
+padding-top:5px ;
+
+}
+.fifth{
+padding-left:25px;
+font-size:19px ;
+padding-top:1px ;
+
+
+}
+.sixth{
+    padding-left: 25px;
+    font-size:19px ;
+    padding-top:5px ;
+
+}
+.seventh{
+    padding-left:25px ;
+    font-size: 19px;
+    padding-top:2px ;
+    
+
+
+}
+.mini2{
+    font-size:12px ;
+     color:orange ;
+    padding-left:20px ;
+}
+.list{
+    font-size:18px ;
+}
+.restaurant{
+    font-size:18px ;
+    padding-left:13px ;
+}
+.price1{
+    font-size:19px ;
+    padding-right:169px ;
+}
+.definition{
+    padding-left:20px ;
+    color: #464444;
+}
+.success{
+    font-size:10px ;
+    color:orange ;
+    padding-left:17px ;
+}
+.simply{
+    padding-top: 20px;
+    padding-left:13px ;
+
+}
+.add{
+    padding-top: 17px;
+    padding-left:13px ;
+
+}
+.use{
+    padding-top:16px ;
+    padding-left:13px ;
+
+}
+.abc{
+    float: right;
+    width:40%;
+    padding-right:125px ;
+    padding-top:60px ;
+}
+.cyan{
+    padding-top:2489px ;
+    padding-left:170px ;
+    font-size:10px ;
+    color:orange ;
+    font-weight: 400;
+    font: bold;
+    
+}
+.incoming{
+    padding-left:170px ;
+    font-size:42px ;
+    color: #a9a9a9;
+}
+.cloud{
+    padding-left:170px ;
+    font-size:18px ;
+}
+.book{
+    padding-left:170px ;
+    font-size:18px ;
+    padding-top:5px ;
+}
+.flower{
+    display: block;
+    padding-top:265px ;
+    margin-left:auto ;
+    margin-right:auto ;
+    padding-left:530px ;
+    font-size:40px ;
+    color: #464444;
+}
+.comments{
+    padding-left:530px ;
+    font-size:20px ;
+}
+/*GloriaFood Reviews*/
+a:link{
+    text-decoration-line:none;
+}
+
+.amanda{
+    border-color: black;
+}
+
+
+    
+.red{
+    background-image:url(../images/cooking.jpeg) ;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position-x: 50% 50%;
+    
+
+}
+.header{
+    background-image:url(../images/cooking.jpeg) ;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+.text-center{
+    text-align: center;
+    font-size: 40px;
+    color:whitesmoke;
+    
+
+}
+.pooh{
+    background-image:url(../images/fd0244.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: 100%;
+    padding-top: 80px;
+    padding-bottom: 100px;
+    width: 110%;
+    height: 90%;
+    
+}
+.text-center p{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 300px;
+    margin-top: 45px;
+    
+
+
+}
+.text-center h3{
+    color:  solid orange;
+    
+
+}
+ul{
+    display: block;
+    list-style-type:none ;
+    font-size:50px ;
+    position: sticky;
+    background-color:#464444;
+    width:100% ;
+    margin:3px ;
+    height:80px ;
+    
+}
+li{
+    display:inline;
+    float:left ;
+    border-right:1px rgba(0, 0, 0, 0) ;
+    font-size:20px ;
+}
+a{
+  display: block;
+  padding:8px ;
+  background-color:transparent ;
+  color:whitesmoke ;
+  font-size:16px ;
+  
+  
+}
+li a:hover{
+    color:orange;
+    background-color:black;
+    border-radius:4px ;
+    border:black ;
+    margin: auto;
+}
+li:last-child{
+    border-right:none ;
+}
+.he{
+ padding-left:10px;
+ box-sizing: border-box;
+ border-color: black;
+ font-size:80px ;
+}
+.con{
+    padding-left:10px ;
+    border-color: black;
+}
+form{
+   display:flex;
+   align-items: center;
+   size:20% ;
+}
+input[type="text"]{
+    padding:10px ;
+    font-size:16px ;
+    border:1px solid #ccc ;
+    
+}
+.ul:hover{
+    background-color: #464444;
+}
+
+button{
+    padding:10px 20px ;
+    background-color:orange ;
+    color: white;
+    border: none;
+    
+    cursor: pointer;
+
+}
+button:hover{
+    background-color:rgb(227, 121, 9);
+    color:white;
+}
+.navi{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 600px;
+    padding-top:20px ;
+    
+}
+.how-it-works{
+    background-color: transparent;
+    color: white;
+    border-radius: 5px;
+
+
+
+}
+.how-it-works:hover{
+    background-color: transparent;
+    color: white;
+}
+.great{
+
+}
+
+.btn-Menue{
+ color:orange ;
+ border-radius:4px ;
+ padding-right:20px ;
+ font-size:20px ;
+
+
+}
+.btn-Menue:hover{
+    background-color: #464444;
+
+}
+.btn-Customers{
+color:orange ;
+border-radius:4px;
+font-size:20px ;
+
+}
+.btn-Customers:hover{
+    background-color: #464444;
+}
+.men{
+padding-left:20px ;
+}
+.with{
+padding-left:117px ;
+font-size:16px ;
+
+}
+.text{
+padding-left:117px ;
+color:white ;
+}
+.btns{
+    padding-left:117px ;
+    color:blue ;
+    padding-top:20px ;
+    border-color:#129cf3 ;
+    background-color:transparent ;
+}
+.header{
+    background-image:url(../images/imgbackground.jpg) ;
+    background-attachment:fixed ;
+    background-position:50% 50% ;
+    background-repeat:no-repeat ;
+}
+.phone{
+    
+    width:60% ;
+    
+}
+.btn-download{
+background-color:transparent ;
+border-color:#129cf3 ;
+margin-right:10px ;
+color: #129cf3;
+}
+.btn-tour{
+background-color:transparent ;
+border-color:#129cf3 ;
+color: #129cf3;
+}
+.btn-download:hover{
+background-color:#129cf3 ;
+color:white ;
+}
+.btn-tour:hover{
+    background-color:#129cf3 ;
+    color:white ;
+}
+.title.h2{
+  text-align: center;
+  padding-left:15% ;
+  padding-left:80px ;
+}
+.title.p{
+text-align: center;
+color: black;
+} 
+.title{
+    padding-left:350px ;
+    color: black;
+}
+.about{
+    padding-left:300px ;
+    padding-bottom:50px ;
+    color: black;
+}
+.to{
+    padding-left:60px ;
+}
+.flag{
+padding-right:20px ;
+
+}
+.bullhorn{
+
+}
+.bolt{
+padding-right:20px ;
+
+}
+.At{
+    padding-top:50px ;
+}
+.why-us{
+    padding-top:50px ;
+}
+.worry{
+    padding-left: 190px;
+ font-size: 18px;
+ padding-top:15px ;
+
+}
+.machine{
+padding-left:190px ;
+font-size:18px ;
+padding-top:15px ;
+}
+.unlimited{
+ padding-left:190px ;
+ font-size:18px ;
+ padding-top:15px ;
+}
+.pea{
+    padding-left:190px ;
+    padding-top:100px ;
+    padding-right:15px ;
+}
+.How {
+    border-color:#129cf3;
+    display: block;
+    border-radius:4px ;
+}
+.btn-How{
+    
+    border-color:#129cf3;
+    border-radius:4px ;
+    color: aliceblue;
+    padding-top:30px ;
+    
+}
+.btn-How:hover{
+    color: #129cf3;
+    border-color: #129cf3;
+
+    border-radius: 4px;
+    
+}
+.hun{
+    font-size:60px ;
+    padding-right:140px ;
+}
